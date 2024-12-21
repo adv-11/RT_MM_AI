@@ -1,8 +1,9 @@
 import io
 import threading
+import daily
+from daily import *
 
-from daily import Daily, CallClient
-
+Daily.init()
 from google.cloud import texttospeech
 
 voice = texttospeech.VoiceSelectionParams(language_code="en-US", name="en-US-Studio-M")
