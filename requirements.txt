@@ -1,0 +1,7 @@
+daily
+google
+google-genai
+time
+json
+PIL
+IPython
