@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react": "^19.0.0",
+    "simple-peer": "^9.11.1"
+  }
+}

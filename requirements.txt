@@ -5,3 +5,12 @@ time
 json
 PIL
 IPython
+fastapi 
+uvicorn 
+aiortc 
+pyaudio 
+numpy o
+opencv-python 
+pillow
+python-dotenv
+moviepy
